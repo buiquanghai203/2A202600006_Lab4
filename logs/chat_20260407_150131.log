@@ -1,0 +1,16 @@
+2026-04-07 15:01:33,800 | INFO | === Bắt đầu phiên chat mới ===
+2026-04-07 15:02:15,058 | INFO | 👤 User: Tôi ở Hà Nội, muốn đi Phú Quốc 2 đêm, budget 5 triệu. Tư vấn giúp!
+2026-04-07 15:02:18,570 | INFO | 🔧 Gọi tool: search_flights({'origin': 'Hà Nội', 'destination': 'Phú Quốc'})
+2026-04-07 15:02:18,570 | INFO | 🔧 Gọi tool: search_hotels({'city': 'Phú Quốc', 'max_price_per_night': 2500000})
+2026-04-07 15:02:43,605 | INFO | 💬 LLM trả lời: Dưới đây là kế hoạch cho chuyến đi của bạn từ Hà Nội đến Phú Quốc trong 2 đêm với ngân sách 5 triệu:
+
+### Chuyến bay:
+- **Vietnam Airlines**: 
+  - Giờ bay: 07:00 → 09:15
+  - Giá: 2.100.000đ
+- **VietJe...
+2026-04-07 15:04:55,687 | INFO | 👤 User: tôi muốn đặt khách sạn
+2026-04-07 15:04:57,439 | INFO | 💬 LLM trả lời: Bạn có thể cho mình biết thành phố bạn muốn đặt khách sạn và ngân sách tối đa mỗi đêm không? Mình sẽ giúp bạn tìm một vài lựa chọn phù hợp!
+2026-04-07 15:06:11,193 | INFO | 👤 User: Giải giúp tôi bài tập lập trình về linked list
+2026-04-07 15:06:13,127 | INFO | 💬 LLM trả lời: Xin lỗi, nhưng mình không thể giúp bạn với bài tập lập trình hay vấn đề kỹ thuật nào. Tuy nhiên, nếu bạn có kế hoạch đi du lịch hoặc cần tư vấn về những điểm đến, khách sạn hay chuyến bay, mình rất sẵ...
+2026-04-07 15:10:04,561 | INFO | === Kết thúc phiên chat ===

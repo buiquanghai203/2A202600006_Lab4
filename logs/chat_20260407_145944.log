@@ -1,0 +1,10 @@
+2026-04-07 14:59:46,379 | INFO | === Bắt đầu phiên chat mới ===
+2026-04-07 15:00:17,374 | INFO | 👤 User: Tìm giúp tôi chuyến bay từ Hà Nội tới Đà Nẵng
+2026-04-07 15:00:20,296 | INFO | 🔧 Gọi tool: search_flights({'origin': 'Hà Nội', 'destination': 'Đà Nẵng'})
+2026-04-07 15:00:26,100 | INFO | 💬 LLM trả lời: Chuyến bay từ Hà Nội đến Đà Nẵng có một số lựa chọn như sau:
+
+1. **Vietnam Airlines**: 06:00 → 07:20 | **Hạng vé:** ECONOMY | **Giá:** 1.450.000đ
+2. **Vietnam Airlines**: 14:00 → 15:20 | **Hạng vé:** ...
+2026-04-07 15:00:54,099 | INFO | 👤 User: Tôi cảm ơn
+2026-04-07 15:00:56,349 | INFO | 💬 LLM trả lời: Không có gì đâu! Nếu bạn cần thông tin hay giúp đỡ gì về du lịch, cứ thoải mái hỏi nhé! 🗺️✈️
+2026-04-07 15:01:25,852 | INFO | === Kết thúc phiên chat ===

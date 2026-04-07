@@ -1,0 +1,10 @@
+2026-04-07 14:56:19,725 | INFO | === Bắt đầu phiên chat mới ===
+2026-04-07 14:56:47,354 | INFO | 👤 User: Xin chào, Tôi đang muốn du lịch nhưng chưa biết đi đâu
+2026-04-07 14:56:50,706 | INFO | 💬 LLM trả lời: Chào bạn! Thế giới du lịch rất rộng lớn, và Việt Nam có rất nhiều địa điểm thú vị để khám phá. Bạn có thể chia sẻ một chút về sở thích của mình hoặc ngân sách bạn dự định cho chuyến đi này không? Ví d...
+2026-04-07 14:57:43,706 | INFO | 👤 User: tôi thích đi biển
+2026-04-07 14:57:46,417 | INFO | 💬 LLM trả lời: Đi biển thì tuyệt vời luôn! Bạn có địa điểm nào trong đầu chưa? Một số bãi biển nổi tiếng ở Việt Nam như Phú Quốc, Nha Trang, Đà Nẵng, hay Vũng Tàu. Bạn muốn tôi giúp tìm chuyến bay và khách sạn ở đâu...
+2026-04-07 14:58:05,949 | INFO | 👤 User: Tôi muốn đi Đà Nẵng
+2026-04-07 14:58:09,381 | INFO | 💬 LLM trả lời: Chắc chắn rồi! Bạn có thể cho mình biết thêm thông tin về chuyến đi này không? Bạn sẽ khởi hành từ đâu, thời gian đi và ngân sách dự kiến là bao nhiêu? Mình sẽ giúp bạn lên kế hoạch chi tiết.
+2026-04-07 14:58:30,916 | INFO | 👤 User: hiện tại tôi chưa cần
+2026-04-07 14:58:34,256 | INFO | 💬 LLM trả lời: Không sao cả! Nếu bạn có bất kỳ câu hỏi nào về du lịch hoặc cần lên kế hoạch cho một chuyến đi trong tương lai, đừng ngần ngại liên hệ với mình nhé! Mình luôn sẵn sàng giúp đỡ bạn. Chúc bạn có một ngà...
+2026-04-07 14:59:33,749 | INFO | === Kết thúc phiên chat ===
