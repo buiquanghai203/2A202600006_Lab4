@@ -22,7 +22,7 @@
 - **Actual Result**: Agent phản hồi thân thiện và đặt câu hỏi gợi mở.
 - **Status**: ✅ Passed
 - **Ghi chú**:  
-![Test Case 1](file:///c:/Users/ADMIN/Downloads/lab4_agent/test_case1.png)
+![Test Case 1](test_case1.png)
 
 ---
 
@@ -37,7 +37,7 @@
 - **Actual Result**: Agent gọi đúng tool và hiển thị danh sách chuyến bay.
 - **Status**: ✅ Passed
 - **Ghi chú**:  
-![Test Case 2](file:///c:/Users/ADMIN/Downloads/lab4_agent/test_case2.png)
+![Test Case 2](test_case2.png)
 
 ---
 
@@ -52,8 +52,8 @@
 - **Actual Result**: Agent thực hiện chuỗi tool chính xác và đưa ra bảng ngân sách chi tiết.
 - **Status**: ✅ Passed
 - **Ghi chú**:  
-![Test Case 3.1](file:///c:/Users/ADMIN/Downloads/lab4_agent/test_case3.1.png)
-![Test Case 3.2](file:///c:/Users/ADMIN/Downloads/lab4_agent/test_case3.2.png)
+![Test Case 3.1](test_case3.1.png)
+![Test Case 3.2](test_case3.2.png)
 
 ---
 
@@ -68,7 +68,7 @@
 - **Actual Result**: Agent phản hồi yêu cầu thêm thông tin chi tiết.
 - **Status**: ✅ Passed
 - **Ghi chú**:  
-![Test Case 4](file:///c:/Users/ADMIN/Downloads/lab4_agent/test_case4.png)
+![Test Case 4](test_case4.png)
 
 ---
 
@@ -83,7 +83,7 @@
 - **Actual Result**: Agent từ chối đúng cách và định hướng lại khách hàng về dịch vụ du lịch.
 - **Status**: ✅ Passed
 - **Ghi chú**:  
-![Test Case 5](file:///c:/Users/ADMIN/Downloads/lab4_agent/test_case5.png)
+![Test Case 5](test_case5.png)
 
 ---
 
